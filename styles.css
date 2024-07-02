@@ -36,7 +36,6 @@ h3 {
 img {
   max-width: 100%;
   height: auto;
-  border-radius: 50%;
 }
 
 ul {
@@ -57,5 +56,3 @@ ul li a {
     padding: 1rem;
   }
 }
-
-
